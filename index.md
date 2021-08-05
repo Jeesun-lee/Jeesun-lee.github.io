@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: Researcher & Therapist 
+subtitle: I strongly believe that giving well love can enhance one's quality of life. 
 cover-img: /assets/img/itu-jeesun-m4.jpg
 ---
 
