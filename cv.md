@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Research Career
+title: CV
 ---
 
 <br/>
 
 
-# Research Experience
+# Curriculum Vitae
 
 ### Electronics and Telecommunications Research Institute
 #### Senior Researcher, 2014 to Present
