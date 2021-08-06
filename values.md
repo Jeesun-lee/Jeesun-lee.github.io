@@ -1,11 +1,9 @@
 
+ <img src="https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/ea46030bcdfeb630584b4a283fe5f3b3970bb332/assets/img/value" width="300" height="150">
+
 <br/>
 
-## Values
-
 **_Values I care and I will follow_**
-
-
 
 
 ‣ **Family**: Sharing moments together and expressing everyday’s gratitude, hardship, comfort, joy, and love.
