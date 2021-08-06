@@ -4,6 +4,8 @@ title: CV
 ---
 
 <br/>
+<a href="assets/CV_210806_Jeesun.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
 
 
 # Curriculum Vitae
