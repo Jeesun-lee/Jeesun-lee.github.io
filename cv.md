@@ -9,130 +9,128 @@ title: CV
 
 
 # Curriculum Vitae
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url= https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/2eb5ccfdfa4e381316ae415f0bb71e72a8d27909/assets/CV_210806_Jeesun.pdf
- &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-  </body>
-</html>
-
-
-https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/2eb5ccfdfa4e381316ae415f0bb71e72a8d27909/assets/CV_210806_Jeesun.pdf
-
-
-
 #### Education
 
-* **Seoul National University, Seoul, Korea** (Feb 2017)
+* **Seoul National University, Seoul, Korea** (Mar 2015-Feb 2017)
   * Master of Arts in Psychology
-  * Major: Clinical and Counseling Psychology (GPA: 4.16/4.30)
+    * Major: Clinical and Counseling Psychology (GPA: 4.16/4.30)
 
-* **San Diego State University, San Diego, California**
+* **San Diego State University, San Diego, California** (Sep 2011-June 2012)
   * Child and Family Development and Psychology (Exchange Student) 
-  * Department of Child and Family Development & Department of Psychology
+    * Department of Child and Family Development & Department of Psychology
 
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+* **Chung Ang University, Seoul, Korea** (Mar 2010-Feb 2014)
+  * Bachelor of Arts in College of Liberal Arts (GPA: 4.03/4.50 - Graduated with Cum Laude)
+    * Major: Adolescent science 
+    * Double Major: Psychology
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
 
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
+#### Professional Experience
 
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
+* **Post-master research assistant** May 2021 – Now<br/>
+			Sungkyunkwan University 
 
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
+* **Psychological evaluator (part-time)** Jan 2020 – May 2021 <br/>
+			Everymind Counseling center (26 cases including Full & Part tests)
 
-### Gwangju Institute of Science and Technology (GIST)
-#### Master Student, 2006 to 2008
+* **Counselor (part-time)** June 2019 – Dec 2019	<br/>
+			Center for Campus Life and Culture, Seoul National University of Education <br/>
+			• Individual Counseling (10 cases, 61 hours)<br/>
+			• Psychological Assessment (29 cases)
 
-* Project: _**Development of e-organ system based on cyber computing**_
-  * Role: development of a high resolution interactive brain visualization system (3D brain, MRI, and EIT images)
-* Project: _**Research on realistic digital broadcasting technology**_
-  * Role: development of a realistic broadcasting system
-* Project: _**Development of Immersive 3D networked virtual environment technology**_
-  * Role: development of a delay compensation mechanism to mitigate network delay problems in 3D network virtual environment with haptic devices
+* **Psychological evaluator (part-time)** Dec 2018 – Nov 2019	<br/>
+			Family Love Seoul Psychiatry Department <br/>
+			• Psychological Assessment (73 cases including 58 Full-battery tests) 
 
-<br/>
+* **Counselor & Psychological evaluator (full-time)** Sep 2018 – Oct 2019	<br/>
+			Hesed Research Institute of Clinical Psychology <br/>
+			• Individual Counseling (14 cases, 287 hours) <br/>
+      • Group Counseling (1case, 20 hours)<br/>
+			• Psychological Assessment (11cases including 6 Full-battery tests)
 
-# Professional Activity
+* **Clinical Psychologist Intern (full-time)** Mar 2017 – Feb 2018	<br/>
+			Seoul National University Hospital<br/>
+      • Psychological Assessment (115 Full-battery cases)<br/>
+			• Individual Counseling (3 cases, 117 hours)<br/>
+      • Group Counseling (2 groups, 104 hours) <br/>
+			• Group Cognitive Behavioral Therapy for Depression (10 sessions)
 
-### Open Source Project Contribution
+* **Counselor (volunteer)** Aug 2015 – Aug 2016<br/>	
+			Center for Campus Life and Culture, Seoul National University<br/>
+ 			• Individual Counseling (2 cases, 90 hours)<br/>
+      • Group Counseling as Co-leader (1 group, 38 hours) 
 
-* Kubernetes project contents owner
-  * Official member of Kubernetes organization (Github)
-  * Contributor of [Kubernetes/website](https://github.com/kubernetes/website) (approver/reviewer/contributor)
-  * Contributor of [Kubernetes/dashboard](https://github.com/kubernetes/dashboard) (approver/reviewer/contributor)
-* Cloud-Barista project owner
-  * Technical leader for [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug)
-  * Owner of [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project (approver/reviewer/contributor)
-  * Owner of [Cloud-Barista/CB-Operator](https://github.com/cloud-barista/cb-operator) (approver/reviewer/contributor)
-* Github Profile: [https://github.com/seokho-son](https://github.com/seokho-son)
+* **Assistant Teacher** Jan 2012 – May 2012	<br/>
+			Children’s Center, San Diego State University 
+      
+* **Event Staff** Nov 2011 - May 2012 <br/>
+			Viejas Arena and Open Air Theatre, San Diego State University  <br/>
 
-### Reviewer for Reputed Journals
 
-* ACM Computing Surveys (ACM)
-* IEEE Transactions on Cloud Computing (IEEE)
-* IEEE Transactions on Service Computing (IEEE)
-* Journal of Supercomputing (Springer)
-* Information Systems Frontier (Springer)
-* International Journal of Cloud Computing (Inderscience)
-* ETRI Journal (Wiley)
+### Certifications & Licenses
+* **Professional Clinical Psychologist,** Korean Psychological Association(Feb 2021) <br/>
+* **Certified Youth Counselor, Grade II,** Ministry of Gender Equality & Family Republic of Korea(Nov 2019) <br/>
+* **Mental Health Psychologist, Class II,** Ministry of Health and Welfare, Korea(April 2018)
 
-### International Standardization
+### Publications
 
-* ITU-T SG13 : main contributor of Y.csb-reqts (recommendation for cloud service brokerage requirements)
-  * Activities to obtain editorship of Y.csb-reqts document (Geneva, June 2016)
-  * 19 proposals (contributions) have been accepted for Y.csb-reqts
-* ITU-T SG13 : main contributor of Y.mc-reqts (recommendation for multi-cloud requirements)
-  * Activities to obtain editorship of Y.mc-reqts document (Geneva, June 2019)
-  * 3 proposals (contributions) have been accepted for Y.mc-reqts
-* Committee of [Korea ITU Committee](https://www.koreaitu.or.kr/)
+* **Lee, J. S** (2017). Situationally Defined Social Anxiety Dimensions and Cognitive-Emotional Characteristics  (Master’s thesis). Seoul National University, Seoul, Republic of Korea. <br/>
 
-### Conference Committee
+* **Lee, J. S.,** Seo, J. W., & Kwon, S. M. (2019). Validation of a Social Anxiety Questionnaire: Empirical Evidence from Korean Undergraduate Students. Korean Journal of Clinical Psychology, 38(2), 237-246.
 
-* Paper Session Chair: The 2012 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'12), Cloud Computing Session
-* Conference Committee: Mexico Satellite Session of IEEE BigData (Mexico City, May 8, 2014)
+### Presentations 
 
-### Invited Talk
+Poster Presentation 
+* **Lee, J. S.** & Kwon, S. M. (2017, Nov). Validity and Reliability of the Social Anxiety Questionnaire: Empirical Evidence from Korean Undergraduate Students. 6th BESETO International Psychiatry Conference (Peking University, Seoul National University, and University of Tokyo), Japan. 
 
-* Invited Talk regarding **_Introduction to Container-based Computing Platform (feat. Kubernetes)_**, 2020
-* Invited Talk regarding [**_Getting Involved in Kubernetes SIG Docs and Korean Localization_**](https://k8sforumseoul19eng.sched.com/event/WIRH/getting-involved-in-kubernetes-sig-docs-and-korean-localization-seokho-son-electronics-and-telecommunications-research-institute-etri-ian-choi-microsoft), Kubernetes Forum Seoul (LinuxFoundataion), 2019
-* Invited Talk regarding **_Cloud Computing with IoT_**, Handong-Univ., 2017
-* Invited Talk regarding **_Cloud Service Brokerage Systems_**, in the Education and Training for CSP experts sponsored by Consortium of Cloud Computing Research , 2016
-* Invited Talk regarding **_HPC over Cloud_**, in Korea Supercomputing Conference 2015, 2015
-* Invited Talk regarding **_HPC Cloud_**, in SCENT HPC Summer School at GIST, 2015
-* Invited Technical Committee for **_Cloud computing and Big data_**, National Computing & Information Agency (Government data center of Korea), 2012
-  * invited expert and lecturer of the SMART Cloud group in NCIA which is a national institute to operate information systems of Korea government. Made several lectures during a year regarding Cloud computing and big data to 30 public officials including senior civil servants.
-* Invited Expert for **_Cloud computing and parallel computing systems_**, Mokwon University in Korea, 2012-2013
-  * assisted a research team in Mokwon University to help the team construct a distributed computing system to process massive data from a large antenna.
+Open Supervision 
+* 2019 Nasarang Psychological Counseling Center Counseling Case Supervision (2019, Aug)
+“A Woman in Her 20s Who Wants to Live a Different Life From Her Mother's.”
 
+Interview 
+* 2020 [Wired Korea](https://youtu.be/b7o9FdDQojQ)‘The Spread of COVID-19 Makes us Feel More Isolated Than Ever.’
+(2’50”, 5’45”)
 
 <br/>
 
-# Honor and Award
+### RESEARCH EXPERIENCES
 
-* Award from Startup Idea Contest 2020 of ETRI
-* Best Paper Presentation Award from Korea Information Science Society	2014
-  * Best paper presentation in Korea Computer Congress 2014
-* Best Paper Presentation Award from Korea Information Science Society	2012
-  * Best paper presentation in Korea Computer Congress 2012
-* Amazon Web Services (AWS) in Education Research Grant	2012
-  * A research proposal has been accepted from Amazon Web Services, Inc
-* National Scholarship for PhD from Korea government	2009–2013
-  * Full financial support from Korea government as a PhD student in GIST  
-* National Scholarship for MS from Korea government	2006–2008
-  * Full financial support from Korea government as a MS student in GIST  
-* Brain Korea 21 (BK21) Scholarship (3 times)	2003–2005
-  * Scholarship from BK21 organized by Ministry of Education and Human Resources Development of South Korea.
-* Pukyong National University Scholarship for Top Student (2 times)	2005–2006
-  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
+* A study for Stress response evaluation using voice biomarkers and customized mental health care program 
+Development (Spring 2017) Supervisor: Min-sup, Shin <br/>
+*__Dept. of Psychiatry, Seoul National University Hospital, South Korea.__* <br/>
+**Research Assistant**: Investigated the need for the project and developed a proposal. 
+
+* Development of Augmented Reality-based Cognitive Behavioral Therapy for Obsessive-compulsive Disorder
+(Spring 2017) Supervisor: Min-sup, Shin <br/>
+*__Dept. of Psychiatry, Seoul National University Hospital, South Korea.__*
+**Research Assistant**: Investigated the need for the project and developed a proposal.
+
+<br/>
+
+### SCHOLARSHIP, AWARDS & HONORS
+
+* **Chung Ang University Graduation Academic Award: Cum laude** (Feb 2014)
+  * _Award Amount: One semester tuition fee_
+* **National Humanities Scholarship** (Fall 2013)
+  * _Award Amount: $3,100_
+* **Top prize in a competition hosted by Doosan Heavy Industries** (Dec 2012)
+  * _Award Amount: $4,200_
+* **Exchange Student & Internship Scholarship** (Spring 2012)
+  * _Award Amount: $3,100_
+* **Interchange Students at Sister Universities Scholarship** (Fall 2011)
+  * _Award Amount: $3,200_
+* **Department Secondary Honor Scholarship** (Spring 2011)
+  * _Award Amount: $1,000_
+
+### Membership
+
+* Regular member, Korean Clinical Psychology Association (Dec 2006 - present)
+* Associate member, Korean Counseling Psychological Association (Apr 2015 - present)
+
+### Statistical analysis experience
+
+* Master's course: Descriptive statistics, exploratory factor analysis, multiple regression analysis, reliability analysis, correlation analysis are done by SPSS. Confirmatory factor analysis is done using AMOS.
+* Participated in the Structural equation modeling workshop courses.
+* Statistic course: A+ both in Advanced psychological statistics and Multivariable analysis majors (Graduate course). A+ in Experimental psychology (Undergraduate course).
+* I am currently working on using R program and getting familiarize with MATLAB program as well.
+
