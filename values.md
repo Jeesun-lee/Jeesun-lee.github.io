@@ -1,13 +1,4 @@
 
-![value](https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/28eff08bfbecdd70e5827e1fbb05e7c6fb9ccb4e/assets/img/value.png" width="370" height="150)
-
-
-<img src="https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/28eff08bfbecdd70e5827e1fbb05e7c6fb9ccb4e/assets./img/value.png" width="370" height="150">
-
-<img src="https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/51bd3de255e201fa2e60828afbd03fa6ef6aec9f/value2.png" width="370" height="150">
-
-<img src="https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/40bbdb1c5142ee1debd7c05c614bd266dedba831/value2.jpeg">
-
 ![image](https://user-images.githubusercontent.com/88423201/128588341-b3d569f9-66bc-425d-9844-b4582f1a6a59.png)
 
 
