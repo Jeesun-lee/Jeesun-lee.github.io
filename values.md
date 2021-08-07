@@ -6,7 +6,7 @@
 
 <img src="https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/51bd3de255e201fa2e60828afbd03fa6ef6aec9f/value2.png" width="370" height="150">
 
-<img src="https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/40bbdb1c5142ee1debd7c05c614bd266dedba831/value2.jpeg" width="370" height="150">
+<img src="https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/40bbdb1c5142ee1debd7c05c614bd266dedba831/value2.jpeg">
 
 
 
