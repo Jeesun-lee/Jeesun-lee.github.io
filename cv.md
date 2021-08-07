@@ -1,15 +1,11 @@
 ---
 layout: page
-title: CV
 ---
 
-<br/>
-<a href="assets/CV_210806_Jeesun.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 
-
-# Curriculum Vitae
-#### Education
+# Curriculum Vitae <br/>
+### Education
 
 * **Seoul National University, Seoul, Korea** (Mar 2015-Feb 2017)
   * Master of Arts in Psychology
@@ -25,7 +21,7 @@ title: CV
     * Double Major: Psychology
 
 
-#### Professional Experience
+### Professional Experience
 
 * **Post-master research assistant** May 2021 – Now<br/>
 			Sungkyunkwan University 
@@ -91,8 +87,6 @@ Interview
 * 2020 [Wired Korea](https://youtu.be/b7o9FdDQojQ)‘The Spread of COVID-19 Makes us Feel More Isolated Than Ever.’
 (2’50”, 5’45”)
 
-<br/>
-
 ### RESEARCH EXPERIENCES
 
 * A study for Stress response evaluation using voice biomarkers and customized mental health care program 
@@ -104,8 +98,6 @@ Development (Spring 2017) Supervisor: Min-sup, Shin <br/>
 (Spring 2017) Supervisor: Min-sup, Shin <br/>
 *__Dept. of Psychiatry, Seoul National University Hospital, South Korea.__*
 **Research Assistant**: Investigated the need for the project and developed a proposal.
-
-<br/>
 
 ### SCHOLARSHIP, AWARDS & HONORS
 
