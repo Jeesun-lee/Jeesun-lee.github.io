@@ -4,6 +4,8 @@
 
 <img src="https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/28eff08bfbecdd70e5827e1fbb05e7c6fb9ccb4e/assets/img/value.png" width="370" height="150">
 
+<img src="https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/28eff08bfbecdd70e5827e1fbb05e7c6fb9ccb4e/assets/img/value.png" width="370" height="150">
+
 
 
 <br/>
