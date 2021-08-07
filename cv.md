@@ -1,10 +1,10 @@
 ---
 layout: page
+title: Curriculum Vitae
 ---
 
 
 
-# Curriculum Vitae <br/>
 ### Education
 
 * **Seoul National University, Seoul, Korea** (Mar 2015-Feb 2017)
