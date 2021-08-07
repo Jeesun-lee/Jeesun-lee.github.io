@@ -1,4 +1,9 @@
-# Memories  
+---
+layout: page
+title: Memories  
+---
+
+
 ### Re-visiting San Diego 2018
 ![3472396335070415645_20210807142225447](https://user-images.githubusercontent.com/88423201/128589699-d6f80590-2723-4dff-846a-904013cb5dc2.JPG)
 
@@ -32,7 +37,7 @@
 ### Undergraduate & Graduate school memories 
 ![357923893187088_20210807145008777](https://user-images.githubusercontent.com/88423201/128589741-1ab67fc2-1359-44ac-bf87-de83d87ada25.JPG)
 ![357923894792464_20210807145019082](https://user-images.githubusercontent.com/88423201/128589743-ec6b8226-e4ae-4915-abe4-bee4e7f04298.JPG)
-* Anne: Deer friend and mentor from the Philippines since 2004
+* Anne: Dear friend and mentor from the Philippines since 2004
 ![3472357179643941392_20210807142536579](https://user-images.githubusercontent.com/88423201/128589709-49bb7582-1aee-4d38-a05e-28673c461feb.JPG)
 
 ### Family
