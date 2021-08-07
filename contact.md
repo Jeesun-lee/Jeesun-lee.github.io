@@ -1,5 +1,7 @@
-
-# Contact Information 
+---
+layout: page
+title: Contact Information 
+---
 
 Please feel free to contact me.
 
