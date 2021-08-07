@@ -17,7 +17,7 @@ navbar-links:
   CV: "cv"
   Publication: "publication"
   Contact: "contact"
-
+  Photos: "photos"
 
 # --- Footer options --- #
 # [수정필요] 웹페이지 하단에 나올 정보를 수정 (다른 사이트 및 커뮤니티에 대한 링크 정보임. 필요 없는 경우 주석 처리)
