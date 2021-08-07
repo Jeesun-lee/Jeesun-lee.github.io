@@ -3,7 +3,4 @@ Though the plan may change, I also included my goals as of now.<br/>
 With appreciating the moments I had, I will continue to walk towards value.<br/>
 And willingly overcome the difficulties I may encounter in the future. 
 
-
- <img src="https://github.com/Jeesun-lee/Jeesun-lee.github.io/blob/6484042e3e84f928c33e0c81383568578fb404ae/assets/img/roadmap.jpeg" width="700" height="1900">
-
-
+![image](https://user-images.githubusercontent.com/88423201/128588433-e6af4a5d-8970-484d-bf9d-2cb5a62c8fb9.png)
